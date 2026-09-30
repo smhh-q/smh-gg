@@ -1,0 +1,1 @@
+Upload all files to a static host. Register smh.gg and connect its DNS to the host.
